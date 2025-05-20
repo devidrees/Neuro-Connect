@@ -56,13 +56,9 @@ neuro-connect/
 ⚠️ This project is currently under development. All rights reserved.
 Use, distribution, or modification without permission is prohibited.
 
-© 2025 [Your Name / Team Name]
+© 2025 Mohammad Idrees Bhat
 
 ## 📬 Contact
 For collaboration or questions, reach out at [dev.idrees@gmail.com](dev.idrees@gmail.com)
 
 ---
-
-### 🔧 Notes:
-- Replace placeholders like `yourusername` and `your.email@example.com`.
-- Add or remove sections as your project evolves (e.g., deployment instructions or screenshots).
