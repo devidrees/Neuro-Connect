@@ -39,6 +39,7 @@ User ↔ Frontend (React) ↔ Backend API (Node.js/Python) ↔ AI Engine / Datab
 git clone https://github.com/yourusername/neuro-connect.git
 cd neuro-connect
 npm install  # or pip install -r requirements.txt for Python backend
+```
 
 
 ## 📁 Project Structure
@@ -50,14 +51,14 @@ neuro-connect/
 ├── ai-models/            # AI chatbot scripts or APIs
 ├── analytics/            # Reporting tools and scripts
 └── docs/                 # Documentation and assets
-
+```
 ## 📄 License
 ⚠️ This project is currently under development. All rights reserved.
 Use, distribution, or modification without permission is prohibited.
 
 © 2025 [Your Name / Team Name]
 
-## 7📬 Contact
+## 📬 Contact
 For collaboration or questions, reach out at [dev.idrees@gmail.com](dev.idrees@gmail.com)
 
 ---
