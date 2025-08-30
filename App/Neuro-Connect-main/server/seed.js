@@ -274,13 +274,13 @@ Together, we can create a world where mental health is treated with the same imp
       console.log('Post created:', post.title);
     }
 
-    console.log('\n✅ Database seeded successfully!');
-    console.log(`📊 Created ${savedDoctors.length} doctors`);
-    console.log(`📊 Created ${savedStudents.length} students`);
-    console.log(`📊 Created ${posts.length} posts`);
-    console.log(`👑 Admin user: idrees@gmail.com / admin@123`);
-    console.log(`👨‍⚕️ Doctor users: doctor123 (for all doctors)`);
-    console.log(`👨‍🎓 Student users: student123 (for all students)`);
+    console.log('\n Database seeded successfully!');
+    console.log(` Created ${savedDoctors.length} doctors`);
+    console.log(` Created ${savedStudents.length} students`);
+    console.log(` Created ${posts.length} posts`);
+    console.log(` Admin user: idrees@gmail.com / admin@123`);
+    console.log(` Doctor users: doctor123 (for all doctors)`);
+    console.log(` Student users: student123 (for all students)`);
 
   } catch (error) {
     console.error('Error seeding database:', error);
