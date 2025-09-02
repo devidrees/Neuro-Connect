@@ -243,16 +243,15 @@ Now open http://localhost:5173 in your browser.
 
 ## 🧱 Role Matrix (essentials)
 
-+----------------------------+---------+--------+-------+
+
 | Action                     | Student | Doctor | Admin |
-+----------------------------+---------+--------+-------+
+|---|---|---|---|
 | Create session             |   ✅     |   ❌    |  ❌   |
 | Update session status      |   ❌     |   ✅    |  ❌   |
 | Chat in assigned session   |   ✅     |   ✅    |  ❌   |
 | Create post                |   ❌     |   ✅    |  ❌   |
 | Verify doctor              |   ❌     |   ❌    |  ✅   |
 | View stats/users           |   ❌     |   ❌    |  ✅   |
-+----------------------------+---------+--------+-------+
 
 
 ## 🛡️ Security Notes
