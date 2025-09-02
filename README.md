@@ -38,7 +38,7 @@ A web platform that enables **students**, **doctors**, and **admins** to collabo
 
 # 📁 Repository Layout
 
-
+```bash
 Neuro-Connect/
 └─ App/
 └─ Neuro-Connect-Code/
@@ -56,7 +56,7 @@ Neuro-Connect/
 │ └─ app.js / server.js
 ├─ docs/ # Diagrams, notes
 └─ README.md
-
+```
 
 
 ---
@@ -216,7 +216,7 @@ Add this script to backend/package.json:
 Run it after starting Mongo:
 
 ```bash
-cd backend
+cd server
 npm run seed
 ```
 
