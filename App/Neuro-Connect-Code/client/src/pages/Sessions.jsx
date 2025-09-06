@@ -18,7 +18,7 @@ const Sessions = () => {
 
   const fetchSessions = async () => {
     try {
-      const response = await axios.get('/api/sessions/my-sessions');
+      const response = await axios.get('localhost:8000/api/sessions/my-sessions');
       setSessions(response.data);
     } catch (error) {
       console.error('Failed to fetch sessions:', error);
