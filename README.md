@@ -15,6 +15,34 @@ A web platform that enables **students**, **doctors**, and **admins** to collabo
 
 ---
 
+## 📸 Screenshots
+
+<!-- Images are stored in the local "Images" folder beside this README. -->
+
+<p align="center">
+  <img src="Images/Home%20page.png" alt="Home page" width="49%" />
+  <img src="Images/Sign%20up%20pages.png" alt="Sign up pages" width="49%" />
+</p>
+<p align="center">
+  <img src="Images/Students%20can%20find%20registered%20docs.png" alt="Students can find registered doctors" width="49%" />
+  <img src="Images/Students%20can%20view%20profiles.png" alt="Students can view profiles" width="49%" />
+</p>
+<p align="center">
+  <img src="Images/AI%20Counselor%20Bot.png" alt="AI Counselor Bot" width="49%" />
+  <img src="Images/Admin%20Panel%20Overview.png" alt="Admin Panel Overview" width="49%" />
+</p>
+<p align="center">
+  <img src="Images/Admin%20Panel%20Overview%202.png" alt="Admin Panel Overview 2" width="49%" />
+  <img src="Images/Admin%20Panel%20Users.png" alt="Admin Panel Users" width="49%" />
+</p>
+<p align="center">
+  <img src="Images/Admin%20doctor%20aprrove.png" alt="Admin doctor aprrove" width="49%" />
+  <img src="Images/doc%20ver%201.png" alt="Doctor verification 1" width="49%" />
+</p>
+
+
+---
+
 ## 🧩 Tech Stack
 
 | Frontend | Backend | Real-Time | Database | Auth | ODM |
